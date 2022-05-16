@@ -1,0 +1,45 @@
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+  background-color:black;
+  color:darkgrey;
+  border-radius:10px;
+  border-style:solid;
+  border-width:px;
+  border-color:darkgrey;
+}
+.heading:hover {
+  background-color:darkgrey;
+  color:rgb(0, 0, 0);
+  border-radius:10px;
+  border-style:solid;
+  border-width:4px;
+  border-color:black;
+  
+}
+.note
+{
+  font-size: 15px;
+  color:darkgrey;
+}
+.note:hover {
+  color:black;
+}
+    canvas 
+  {
+    border:5px solid white;
+    border-radius:20px;
+  }
+
+#song_name {
+  background-color:rgb(105, 105, 110);
+  font-size:30px;
+  font-weight:bold;
+  color:rgb(255, 255, 255);
+  border-color:rgb(0, 0, 0);
+  border-width:4px;
+  border-style:solid;
+  border-radius:10px;
+}
